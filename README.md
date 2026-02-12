@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MemeRightsActivist
-- 👀 I’m interested in designing Co-op based videogames for all
-- 🌱 I’m currently learning C#, Unity, and how to resist the urge to throw away my computer
+- 👀 I’m extremely fascinated in all things Physics.
+- 🌱 I’m currently learning to work with OpenTK.
 - 💞️ I’m looking to collaborate on not much. I know that a lot of people are a lot more experienced than I am.
 - 📫 How to reach me: Doesn't this site have a message system?
 
